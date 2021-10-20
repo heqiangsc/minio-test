@@ -1,0 +1,6 @@
+minio:
+  endpoint: http://minio.hesc.site
+  port: 80
+  default-bucket-name: ldx
+  access-key: admin
+  secret-key: admin123
